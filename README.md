@@ -1,7 +1,7 @@
 # 🌡️ Sistema de Controle de Janela IoT 
 ### Mestrado em Informática - IPB | Worksheet 3 - Exercício 9
 
-Este projeto implementa uma solução de automação inteligente para o controlo de uma janela (simulada pelo LED interno de um ESP8266). O sistema monitoriza a temperatura média ambiente da última hora e executa uma ação de abertura ou fecho baseada num limite (threshold) definido pelo utilizador.
+Este projeto implementa uma solução de automação inteligente para o controle de uma janela (simulada pelo LED interno de um ESP8266). O sistema monitoriza a temperatura média ambiente da última hora e executa uma ação de abertura ou fecho baseada num limite (threshold) definido pelo utilizador.
 
 ---
 
